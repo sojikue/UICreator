@@ -1,0 +1,14 @@
+c:\MyDirectory\Projects\UICreator\UICreator\bin\Debug\net8.0\UICreator.exe
+c:\MyDirectory\Projects\UICreator\UICreator\bin\Debug\net8.0\UICreator.deps.json
+c:\MyDirectory\Projects\UICreator\UICreator\bin\Debug\net8.0\UICreator.runtimeconfig.json
+c:\MyDirectory\Projects\UICreator\UICreator\bin\Debug\net8.0\UICreator.dll
+c:\MyDirectory\Projects\UICreator\UICreator\bin\Debug\net8.0\UICreator.pdb
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.GeneratedMSBuildEditorConfig.editorconfig
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.AssemblyInfoInputs.cache
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.AssemblyInfo.cs
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.csproj.CoreCompileInputs.cache
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.dll
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\refint\UICreator.dll
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.pdb
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\UICreator.genruntimeconfig.cache
+c:\MyDirectory\Projects\UICreator\UICreator\obj\Debug\net8.0\ref\UICreator.dll
